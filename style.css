@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+}
+body {
+    padding-top: 50px;
+    background-color: antiquewhite;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #c9bcbc;
+    text-align: center;
+    padding: 10px;
+}
+.logo{
+    width: 25px;
+    height: 25px;
+}
+.home {
+   display: flex;  
+   align-items: center;
+   justify-content: center;
+   padding-top: 20px;
+   padding-bottom: 60px;
+   gap: 30px;
+}
+.home img{
+    border-radius: 50%;
+}
